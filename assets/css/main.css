@@ -1309,9 +1309,6 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			top: 50%;
-    			left: 50%;
-  			  transform: translateX(-50%) translateY(-50%);
 		}
 
 			#header .logo .icon:before {
